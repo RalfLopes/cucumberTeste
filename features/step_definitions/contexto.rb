@@ -1,9 +1,5 @@
 Dado('que eu tenha {int} laranjas na sacola') do |laranjas|
     @sacola= laranjas
-<<<<<<< HEAD
-    
-=======
->>>>>>> cenario e contexto
     end
     
     Quando('eu comprar {int} laranjas') do |compra|
@@ -17,7 +13,4 @@ Dado('que eu tenha {int} laranjas na sacola') do |laranjas|
     Quando('eu perder {int} laranjas') do |perder|
         @sacola-=perder
     end
-<<<<<<< HEAD
-    
-=======
->>>>>>> cenario e contexto
+

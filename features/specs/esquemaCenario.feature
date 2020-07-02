@@ -1,7 +1,7 @@
 #language: pt
-
 Funcionalidade: multiplicar
 
+@esquema
 Esquema do Cenario: multiplicar minhas frutas
 Quando eu multiplicar <laranjas>  pelo <valor> 
 Então devo ver o <resultado>
